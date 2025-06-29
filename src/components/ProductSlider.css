@@ -1,0 +1,25 @@
+.slider-container {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 10px;
+  scrollbar-width: none; /* Firefox */
+}
+
+.slider-container::-webkit-scrollbar {
+  display: none; /* Chrome */
+}
+
+.slider-track {
+  display: flex;
+  gap: 20px;
+  animation: slide 20s linear infinite;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
