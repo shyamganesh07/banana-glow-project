@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/banana-glow-project/static/css/main.ceed7fc2.css",
+    "main.js": "/banana-glow-project/static/js/main.33d7daaf.js",
+    "static/media/background.jpg": "/banana-glow-project/static/media/background.6f8dcf4e07eaac83d78a.jpg",
+    "static/media/6.jpeg": "/banana-glow-project/static/media/6.e10c6fe1cc93c1547e75.jpeg",
+    "index.html": "/banana-glow-project/index.html",
+    "main.ceed7fc2.css.map": "/banana-glow-project/static/css/main.ceed7fc2.css.map",
+    "main.33d7daaf.js.map": "/banana-glow-project/static/js/main.33d7daaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceed7fc2.css",
+    "static/js/main.33d7daaf.js"
+  ]
+}
